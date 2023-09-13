@@ -8,4 +8,5 @@ git config --flobal user.email 34234@qq.com
 git init  init git init
 git status git status
 git add World.txt
-git commit -a "first" World.txt
+git commit -m "scoend commit" World.txt
+git status     git reflog
