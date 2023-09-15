@@ -1,14 +1,3 @@
-you you you
-2333333333
-666666
-
-git config --global user.name MYsteveX
-git config --flobal user.email 34234@qq.com
-
-git init  init git init
-git status git status
-git add World.txt
-git commit -m "scoend commit" World.txt
-git status     git reflog
-
-Haaaaaaa!!!!!!!!!!!
+1
+22
+333
